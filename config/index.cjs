@@ -63,9 +63,9 @@ const USER_CONFIG = {
   USERS: [oxaaR6qBMbd3SO_h3Bl53ZOto8Oo]
     {
       // 想要发送的人的名字
-      name: '老婆0',
+      name: '小瘪瘪',
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: '早上好哦~',
       // 你想对他发送的模板消息的模板ID
       useTemplateId: 'VOc6k_X8IjPUBiwFWV8pXb9dvZt8DS6Qw3OZWZZJk-k',
       // 所在省份
@@ -218,7 +218,7 @@ const USER_CONFIG = {
    */
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '',
+  CALLBACK_TEMPLATE_ID: 'VOc6k_X8IjPUBiwFWV8pXb9dvZt8DS6Qw3OZWZZJk-k',
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
@@ -239,9 +239,9 @@ const USER_CONFIG = {
   /** 天气相关 */
 
   // 默认所在省份, USERS 中没填的话, 会默认拿这里的省份
-  PROVINCE: '广东',
+  PROVINCE: '江苏',
   // 默认所在城市, USERS 中没填的话, 会默认拿这里的城市
-  CITY: '惠州',
+  CITY: '徐州',
 
   /** 重要节日相关 */
 
